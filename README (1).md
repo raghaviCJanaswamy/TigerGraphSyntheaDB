@@ -2,7 +2,7 @@
 id: local-tigergraph-setup
 title:  Get Started with Graph Locally
 ---
-
+import styles from '../css/newsfeed.css';
 
 ## Setup SyntheaDB Healthcare Graph in Local Docker Environment
 
